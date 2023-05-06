@@ -19,7 +19,7 @@
 
 ### Link dos projetos
 
-- [Desafio Ifood](http://example.com/)
+- [Desafio Ifood]()
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
