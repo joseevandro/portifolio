@@ -1,11 +1,11 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/foto_perfil.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Analista de Dados | Python | SQL
   <br><br>
-  Second description 
+  Comunidade Estatidados
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jos%C3%A9-evandro-990087157">Ver meu perfil no Linkedin</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
