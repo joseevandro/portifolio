@@ -1,7 +1,7 @@
 title: José Evandro # your name (or website title) here
 logo:
 <p align="left"
-    <img src="/images/foto_perfil2.jpg?raw=true"/>    # "/images/foto_perfil.png?raw=true" # your photo (or logo) here
+    <img width="470" src="/images/foto_perfil2.jpg?raw=true"/>    # "/images/foto_perfil.png?raw=true" # your photo (or logo) here
 </p>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Analista de Dados | Python | SQL
